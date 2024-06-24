@@ -1,4 +1,4 @@
 Name: Helen Tizazu
 Country:Ethiopia 
 Institution: AIMS SA
-Research interest:  Metapopulation modelsty
+Research interest:  Metapopulation modelstyle
